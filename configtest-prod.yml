@@ -1,1 +1,2 @@
-namoosori.value: "prod-test-value"
+namoosori:
+  value: prod-test-value
